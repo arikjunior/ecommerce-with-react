@@ -1,5 +1,5 @@
 # Online 
-aureykstore.netlify.com
+[aureykstore.netlify.com](https://aureykstore.netlify.app).
 
 # Getting Started with Create React App
 
